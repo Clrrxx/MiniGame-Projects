@@ -1,4 +1,6 @@
-# Black-Jack
+#MiniGames
+
+Black-Jack
 Learning Outcomes: 
 - Design a Blackjack game in Java where the entities of the game — cards, deck, hands, players, and dealer — are each modelled as encapsulated classes connected through inheritance and composition, and where polymorphism governs how different participant types make decisions during gameplay.
   
