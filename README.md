@@ -1,4 +1,8 @@
 # MiniGames
+-  Black Jack
+-  Snake
+-  Pong
+-  Uno
 
 # Black-Jack
 Learning Outcomes: 
