@@ -17,7 +17,7 @@ Learning Outcomes:
 The point of this is to better practice and implement Java OOP into projects to better familarise and expose myself into coding
 
 # Snake
-Learning OutComes: 
+Learning Outcomes: 
 - Design a C++ game using RayLib, entities of the game include snake, food and game. Each are modelled as encapuslated classes.
 
 - Apply OOP principles in C++
